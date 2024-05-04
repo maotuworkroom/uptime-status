@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: '查询小难状态（中央Service控制面板）Public Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
