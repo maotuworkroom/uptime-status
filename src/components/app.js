@@ -23,8 +23,8 @@ function App() {
           ))}
         </div>
         <div id='footer'>
-          <p>基于&nbsp;<Link to='https://uptimerobot.com/' text='UptimeRobot' />&nbsp;接口&nbsp;|&nbsp;检测频率&nbsp;5&nbsp;分钟</p>
-          <p>2020&nbsp;-&nbsp;2023&nbsp;&copy;&nbsp;Reach&nbsp;-&nbsp;<Link to='/' text='墨明' /></p>
+          <p>基于&nbsp;<Link to='https://s.xinu.ink/' text='UptimeRobot' />&nbsp;接口&nbsp;|&nbsp;检测频率&nbsp;5&nbsp;分钟</p>
+          <p>2024&nbsp;&copy;&nbsp;Xinu&nbsp;-&nbsp;<Link to='/' text='MC' /></p>
         </div>
       </div>
     </>
