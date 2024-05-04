@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://tjys.tk'
+      text: 'GPT主站',
+      url: 'https://bing.xinu.ink/'
     },
     {
-      text: '博客',
-      url: 'https://blog.qikaile.tk'
+      text: '晴女の天气小站',
+      url: 'https://nanxmas.github.io/Weather/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      text: 'API',
+      url: 'https://zt.xinu.ink'
     },
   ],
 };
